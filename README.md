@@ -1,2 +1,0 @@
-# SampleProject
-Github crash course
